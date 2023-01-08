@@ -1,0 +1,17 @@
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\bin\Debug\net6.0\Common.exe
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\bin\Debug\net6.0\Common.dll
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.csproj.CopyComplete
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.dll
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+C:\Users\BDD\Desktop\C Sharp\gRPC_Use\Common\obj\Debug\net6.0\ref\Common.dll

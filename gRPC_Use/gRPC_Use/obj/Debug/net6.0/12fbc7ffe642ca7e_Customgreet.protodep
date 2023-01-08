@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Customgreet.cs \
+obj\Debug\net6.0\Protos/CustomgreetGrpc.cs: Protos/Customgreet.proto

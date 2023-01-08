@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+//引入程序集
+import "google/protobuf/empty.proto";//支持无参数的方法
+
+option csharp_namespace = "gRPC_Use";
+
+package greet;//生成的类名
+
+// 定义服务
+service Greeter {
+  // 添加方法，方法名SayHell,参数HelloRequest，返回值HelloReply
+  rpc SayHello (HelloRequest) returns (HelloReply);
+  rpc Count (google.protobuf.Empty) returns (CountResult);//无参数的方法
+}
+
+// The request message containing the user's name.
+message HelloRequest {
+  string name = 1;//指定接受的消息为string类型，1代表是第一个参数
+}
+
+// The response message containing the greetings.
+message HelloReply {
+  string message = 1;
+}
+
+message CountResult{
+  string Count =1;
+}
+

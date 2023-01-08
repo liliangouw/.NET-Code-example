@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZUAlDH7qDpMrdi1TUyoOByOQyC8k9nwjH+dci/qq3SIFOF6EF3J5lp2wLMF9mH2iQETmSBvAz8ebJcSK8ak7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BDD\\Desktop\\C Sharp\\gRPC_Use\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BDD\\.nuget\\packages\\grpc.core.api\\2.51.0\\grpc.core.api.2.51.0.nupkg.sha512",
+    "C:\\Users\\BDD\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
